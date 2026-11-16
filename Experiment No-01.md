@@ -45,3 +45,23 @@ int main()
     return 0;
 }
 ```
+# Output:
+```
+Name: Shivam
+Age: 20
+Marks: 85.5
+Salary: 25000.8
+Grade: A
+Pass: 1
+PI: 3.14
+
+Arithmetic Operators
+Addition: 15
+Subtraction: 5
+Multiplication: 50
+Division: 2
+Modulus: 0
+
+Enter a number: 0
+You entered: 0
+```
