@@ -176,3 +176,62 @@ int main()
     return 0;
 }
 ```
+# Output:
+```
+=================================
+       HOTEL MANAGEMENT SYSTEM
+=================================
+
+1. Display Available Rooms
+2. Book a Room
+3. Display Booking Bill
+4. Exit
+
+Enter Your Choice: 1
+Available Rooms
+1. Single Room - Rs.1000 per day
+2. Double Room - Rs.1800 per day
+3. Deluxe Room - Rs.2500 per day
+
+1. Display Available Rooms
+2. Book a Room
+3. Display Booking Bill
+4. Exit
+
+Enter Your Choice: 2
+Enter Customer Name:shivam
+Enter Booking Date (DD/MM/YYYY): 16/11/2026
+Available Rooms
+1. Single Room - Rs.1000 per day
+2. Double Room - Rs.1800 per day
+3. Deluxe Room - Rs.2500 per day
+
+Select Room Type (1-3): 1
+Enter Number of Days: 2
+Room Booked Successfully!
+
+1. Display Available Rooms
+2. Book a Room
+3. Display Booking Bill
+4. Exit
+
+Enter Your Choice: 3
+========== HOTEL BOOKING RECEIPT ==========
+Hotel Name: Grand Palace Hotel
+Customer Name: shivam
+Booking Date: 16/11/2026
+Room Type: Single Room
+Price Per Day: Rs.1000
+Number of Days: 2
+-------------------------------------------
+Total Amount: Rs.2000
+===========================================
+
+1. Display Available Rooms
+2. Book a Room
+3. Display Booking Bill
+4. Exit
+
+Enter Your Choice: 4
+Thank You for Visiting!
+```
