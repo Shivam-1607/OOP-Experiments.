@@ -80,3 +80,14 @@ int main()
     return 0;
 }
 ```
+# Output:
+```
+Bank Account Details
+Account Number: 101
+Account Holder: Shivam
+Balance: 10000
+Account Holder: Shivam
+Interest Rate: 5%
+Amount Deposited: 2000
+Interest: 600
+```
