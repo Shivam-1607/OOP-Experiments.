@@ -67,3 +67,9 @@ int main()
     return 0;
 }
 ```
+# Output:
+```
+The complex number is: 5 + 0i
+The complex number is: 3 + 4i
+The complex number is: 8 + 4i
+```
