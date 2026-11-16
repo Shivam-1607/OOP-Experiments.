@@ -98,3 +98,21 @@ int main()
     return 0;
 }
 ```
+# Output:
+```
+Integer Stack:
+Stack Elements:
+30
+20
+10
+
+Float Stack:
+Stack Elements:
+2.2
+1.1
+
+String Stack:
+Stack Elements:
+World
+Hello
+```
