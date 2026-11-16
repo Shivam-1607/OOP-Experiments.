@@ -63,3 +63,29 @@ int main()
     return 0;
 }
 ```
+# Output:
+```
+Student Records Written Successfully!
+
+Current Write Position: 57
+Write Position at End: 57
+
+Current Read Position: 0
+
+Student Records:
+RollNo,Name,Marks
+101,Shivam,90
+102,Rahul,85
+103,Aman,75
+104,Arjun,88
+
+Final Read Position: -1
+```
+- It will also create a Excel sheet with data:
+```
+RollNo,Name,Marks
+101,Shivam,90
+102,Rahul,85
+103,Aman,75
+104,Arjun,88
+```
