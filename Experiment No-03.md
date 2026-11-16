@@ -109,3 +109,24 @@ int main()
     return 0;
 }
 ```
+# Output:
+```
+Default Constructor Called
+Student Name: Unknown
+Parameterized Constructor Called
+Student Name: Shivam
+Copy Constructor Called
+Student Name: Shivam
+Move Constructor Called
+Student Name: Shivam
+Default Constructor Called
+Student Name: Shivam
+Default Constructor Called
+Student Name: Shivam
+Destructor Called
+Destructor Called
+Destructor Called
+Destructor Called
+Destructor Called
+Destructor Called
+```
