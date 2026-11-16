@@ -89,3 +89,9 @@ int main()
     return 0;
 }
 ```
+# Output:
+```
+Area of Rectangle: 50
+Area of Triangle: 25
+Area of Circle: 78.5
+```
