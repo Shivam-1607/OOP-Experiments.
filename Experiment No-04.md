@@ -86,3 +86,17 @@ int main()
     return 0;
 }
 ```
+# Output:
+```
+Enter Graduate Student Details
+Enter Name:shivam
+Enter Age:19
+Enter Roll Number :50
+Enter Research Topic: Ai
+
+Graduate Student Details
+Name: shivam
+Age: 19
+Roll Number: 50
+Research Topic: Ai
+```
