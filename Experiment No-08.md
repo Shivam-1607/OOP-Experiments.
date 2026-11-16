@@ -92,3 +92,26 @@ int main()
     return 0;
 }
 ```
+# Output:
+```
+Original Marks:
+75 90 65 85 95 
+
+Sorted Marks:
+65 75 85 90 95 
+
+First Mark Greater Than 80: 85
+
+Marks After Adding 5:
+70 80 90 95 100 
+
+Student Marks Using Map:
+Aman : 75
+Rahul : 85
+Shivam : 90
+
+Student Roll Numbers:
+Aman : 103
+Rahul : 102
+Shivam : 101
+```
