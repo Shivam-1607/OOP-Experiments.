@@ -115,3 +115,11 @@ int main()
     return 0;
 }
 ```
+# Output:
+```
+Current Balance: 5000
+Amount Deposited: 2000
+Amount Withdrawn: 1000
+Error: Insufficient Balance!
+Current Balance: 6000
+```
